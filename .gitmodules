@@ -13,3 +13,12 @@
 [submodule "sparebank1-designsystem"]
 	path = sparebank1-designsystem
 	url = git@github.com:SpareBank1/designsystem.git
+[submodule "mattilsynet-designsystem"]
+	path = mattilsynet-designsystem
+	url = git@github.com:Mattilsynet/designsystem.git
+[submodule "miljodir-md-components"]
+	path = miljodir-md-components
+	url = git@github.com:miljodir/md-components.git
+[submodule "equinor-design-system"]
+	path = equinor-design-system
+	url = git@github.com:equinor/design-system.git
