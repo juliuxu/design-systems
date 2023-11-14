@@ -1,0 +1,15 @@
+[submodule "digdir-designsystem"]
+	path = digdir-designsystem
+	url = git@github.com:digdir/designsystem.git
+[submodule "nav-aksel"]
+	path = nav-aksel
+	url = git@github.com:navikt/aksel.git
+[submodule "fremtind-jokul"]
+	path = fremtind-jokul
+	url = git@github.com:fremtind/jokul.git
+[submodule "vy-spor"]
+	path = vy-spor
+	url = git@github.com:nsbno/spor.git
+[submodule "sparebank1-designsystem"]
+	path = sparebank1-designsystem
+	url = git@github.com:SpareBank1/designsystem.git
