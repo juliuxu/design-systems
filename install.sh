@@ -1,5 +1,5 @@
 for x in $(ls -d */); do
   cd $x
-  ni
+  nci
   cd ..
 done
